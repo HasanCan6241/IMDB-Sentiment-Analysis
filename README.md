@@ -2,7 +2,7 @@
 
 Welcome to the **IMDB Sentiment Analysis** project! This application utilizes advanced Natural Language Processing (NLP) techniques to analyze and classify movie and TV show reviews from IMDB as either positive or negative. The system is powered by a robust machine learning model and offers an intuitive user experience through a modern Streamlit interface.
 
-<img src="images/IMDB-Sentiment-Analysis.png" alt="Sentiment-Analysis" width="800" height="450">  <!-- Add an image relevant to your project -->
+<img src="images/IMDB-Sentiment-Analysis.png" alt="Sentiment-Analysis" width="800" height="420">  <!-- Add an image relevant to your project -->
 
 
 ## 🚀 Features
